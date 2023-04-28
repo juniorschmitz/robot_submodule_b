@@ -1,3 +1,3 @@
 *** Keywords ***
-Output do modulo A
+Output do modulo B
   Log To Console      batataaaaaaaaaaaaaaaaaaaaaaaa teste módulo B
